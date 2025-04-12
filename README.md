@@ -1,2 +1,2 @@
-# MyCine
-Projeto
+# MyCine - Sistema de Compra de Ingressos
+Mycine
