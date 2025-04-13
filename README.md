@@ -7,3 +7,6 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 * Visualização e interação com banners de filmes.
 * Compra de ingressos.
 * Gerenciamento de sessões de usuários para manter o estado do login.
+
+  **Funcionalidades**
+  ------------------------------------------------------------------------------------
