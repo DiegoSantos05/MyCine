@@ -36,15 +36,19 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 </ul>
 
 ## Linguagens Utilizadas:
-* **PHP:** Para o controle de sessões e manipulação de dados no servidor.  
-* **HTML/CSS:** Para a estruturação e estilização das páginas.  
-* **JavaScript:** Para animações e interatividade na página de compra, como as setas de navegação na página de compras.
-* **MySQL:** Para o armazenamento de dados dos filmes e usuários.
+* **PHP:** Responsável pelo gerenciamento de sessões e pela manipulação de dados no lado do servidor..  
+* **HTML/CSS:** Utilizados para criar a estrutura e adicionar estilos às páginas.  
+* **JavaScript:** Implementado para tornar as páginas dinâmicas e interativas.
+* **MySQL:** Serve para armazenar informações, como os dados dos filmes, dos usuários e das formas de pagamento.
 
-  ## Estruturas Utilizadas no Código
+## Estruturas Utilizadas no Código
 
 * **PHP:** Estruturas condicionais como if, switch, e operadores lógicos (&&, ||) para controle de fluxo e validação de formulários.
 * **Variáveis Superglobais:** Como $_GET e $_POST, usadas para capturar e processar os dados dos formulários.
 * **JavaScript:** Para adicionar interatividade nas páginas, como animações e navegação.
+
+## Para Rodar o Projeto:
+1. 
+
 
 
