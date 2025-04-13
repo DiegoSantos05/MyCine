@@ -44,11 +44,14 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 ## Estruturas Utilizadas no Código
 
 * **PHP:** Estruturas condicionais como if, switch, e operadores lógicos (&&, ||) para controle de fluxo e validação de formulários.
-* **Variáveis Superglobais:** Como _$_GET_ e $_POST, usadas para capturar e processar os dados dos formulários.
+* **Variáveis Superglobais:** Como $_GET e $_POST, usadas para capturar e processar os dados dos formulários.
 * **JavaScript:** Para adicionar interatividade nas páginas, como animações e navegação.
 
 ## Para Rodar o Projeto:
-1. 
+1. Realize o clone deste repositório para o seu computador.
+2. Verifique se PHP e MySQL estão devidamente configurados em seu ambiente.
+3. Abra os arquivos PHP utilizando um servidor local, como o WAMP.
+4. Acesse o projeto diretamente através do seu navegador de internet.
 
 
 
