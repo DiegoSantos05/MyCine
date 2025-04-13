@@ -11,7 +11,9 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 
 ## Funcionalidades  
 **1. Login de Usuário:**
+<ul type="circle">
     <li>Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.</li>
+</ul>
 
 ## Funcionalidades  
 **1. Login de Usuário:**
