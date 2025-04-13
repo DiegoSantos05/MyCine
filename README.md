@@ -27,7 +27,7 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 
 **4. Uso de Sessões:**
 <ul type="circle">
-    <li></li>Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</li>
+    <li>Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</li>
 </ul>
 
 
