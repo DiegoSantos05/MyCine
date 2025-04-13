@@ -11,11 +11,11 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 
 ## Funcionalidades
 **1 - Login de Usuário:**  
-  <ul type="circle"> Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.  
+  <ul type="circle"> Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.</ul>    
 **2 - Página de Filmes:**  
-  <ul type="circle"> Exibe filmes disponíveis, permitindo aos usuários interagir com banners e obter mais detalhes sobre cada filme.  
+  <ul type="circle"> Exibe filmes disponíveis, permitindo aos usuários interagir com banners e obter mais detalhes sobre cada filme.</ul>    
 **3 - Compra de Ingressos:**  
-<ul type="circle"> Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).  
+<ul type="circle"> Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</ul>    
 **4 - Uso de Sessões:**  
 
 
