@@ -10,8 +10,7 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 * Gerenciamento de sessões de usuários para manter o estado do login.
 
 ## Funcionalidades  
-<ul>
-  <li>1. Login de Usuário:</li>
+**1. Login de Usuário:**
   <ul>
     <li>Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.</li>
   </ul>
