@@ -15,7 +15,7 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 **2. Página de Filmes:**
 *      Exibe filmes disponíveis, permitindo aos usuários interagir com banners e obter mais detalhes sobre cada filme.     
 **3. Compra de Ingressos:**  
- -     Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</ul>    
+-       Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</ul>    
 **4. Uso de Sessões:**  
 
 
