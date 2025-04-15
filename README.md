@@ -4,16 +4,14 @@
 ## Objetivo do Projeto
 
 O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataforma prática e funcional para a aquisição de ingressos de cinema. As principais características incluem:
-* Login de usuário pré estabelecidos: "admin" Senha: "123".
+* Login de usuário pré estabelecidos: **"admin"** Senha: **"123"**.
 * Visualização e interação com banners de filmes.
 * Compra de ingressos.
 * Gerenciamento de sessões de usuários para manter o estado do login.
 
 ## Funcionalidades  
 **1. Login de Usuário:**
-<ul type="circle">
-    <li>Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.</li>
-</ul>
+    - Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.
 
 **2. Página de Filmes:** 
 <ul type="circle">
