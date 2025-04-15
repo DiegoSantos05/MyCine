@@ -20,7 +20,7 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
     - Para tirar dúvidas, enviar sugestões ou compartilhar suas ideias.
 
 4. **Compra de Ingressos**:
-    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php).
+    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php`).
 
 5. **Uso de Sessões**:
     - Através da função `session_start()`, os dados do usuário são armazenados na sessão, permitindo a navegação sem a necessidade de fazer login novamente.
@@ -34,8 +34,8 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 
 ## Estruturas Utilizadas no Código
 
-- **PHP:** Estruturas condicionais como if, switch, e operadores lógicos (&&, ||) para controle de fluxo e validação de formulários.
-- **Variáveis Superglobais:** Como $_GET e $_POST, usadas para capturar e processar os dados dos formulários.
+- **PHP:** Estruturas condicionais como `if`, `switch`, e operadores lógicos (`&&`, `||`) para controle de fluxo e validação de formulários.
+- **Variáveis Superglobais:** Como `$_GET` e `$_POST`, usadas para capturar e processar os dados dos formulários.
 - **JavaScript:** Para adicionar interatividade nas páginas, como animações e navegação.
 
 ## Para Rodar o Projeto:
