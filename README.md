@@ -44,5 +44,8 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 3. Abra os arquivos PHP utilizando um servidor local, como o WAMP.
 4. Acesse o projeto diretamente através do seu navegador de internet.
 
+## Layout
+/assets/images/Captura de tela 2025-03-31 230316.png
+
 
 
