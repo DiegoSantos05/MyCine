@@ -13,25 +13,17 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
 1. **Login de Usuário:**
     - Permite o registro e login dos usuários, com controle de sessão para manter o estado de login ativo.
 
-**2. Página de Filmes:** 
-<ul type="circle">
-    <li>Exibe filmes disponíveis, permitindo aos usuários interagir com banners e obter mais detalhes sobre cada filme.</li>
-</ul>
+2. **Página de Filmes:** 
+    - Exibe filmes disponíveis, permitindo aos usuários interagir com banners e obter mais detalhes sobre cada filme.
 
-**3. Página de Contato:**
-<ul type="circle">
-    <li>Para tirar dúvidas, enviar sugestões ou compartilhar suas ideias.</li>
-</ul>
+3. **Página de Contato:**
+    - Para tirar dúvidas, enviar sugestões ou compartilhar suas ideias.
 
-**4. Compra de Ingressos:** 
-<ul type="circle">
-    <li>Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).</li>
-</ul>
+4. **Compra de Ingressos:** 
+    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (Compra.php).
 
-**5. Uso de Sessões:**
-<ul type="circle">
-    <li>Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php`).</li>
-</ul>
+5. **Uso de Sessões:**
+    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php`).
 
 ## Linguagens Utilizadas:
 * **PHP:** Responsável pelo gerenciamento de sessões e pela manipulação de dados no lado do servidor..  
