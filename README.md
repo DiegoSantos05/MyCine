@@ -20,10 +20,11 @@ O projeto acadêmico foi criado com a finalidade de disponibilizar uma plataform
     - Para tirar dúvidas, enviar sugestões ou compartilhar suas ideias.
 
 4. **Compra de Ingressos**:
-    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (´Compra.php´).
+    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php).
 
 5. **Uso de Sessões**:
-    - Após o login, o usuário pode acessar uma página exclusiva de compra de ingressos (`Compra.php`).
+    - Através da função `session_start()`, os dados do usuário são armazenados na sessão, permitindo a navegação sem a necessidade de fazer login novamente.
+   - O usuário pode se deslogar utilizando `session_destroy()`.
 
 ## Linguagens Utilizadas:
 - **PHP:** Responsável pelo gerenciamento de sessões e pela manipulação de dados no lado do servidor..  
